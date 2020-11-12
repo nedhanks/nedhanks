@@ -1,17 +1,32 @@
-# Ned D Hanks
+# Hey you, Ned here. Hope you are having an awesome day
 
-* Currently Working On:
-  * Kubernetes DevOps system [Akkeris](https://github.com/akkeris)
+## WHo Am I
 
-* Ask me about:
-  * [Akkeris](https://github.com/akkeris)
+*Ned D Hanks*
+AKA (in some circles) *Geekysmurf*
 
-* Contact me at:
-  * Personal: info@nedhanks.com
-  * Work: ned.hanks@octanner.com
- 
+### I am a father, husband, blogger, geek, developer, and cloud engineer.
+
+🧫 My blog is about personal productivity and life experience.
+
+- Currently Working On:
+  - Kubernetes DevOps system [Akkeris](https://github.com/akkeris)
   
-* Fun fact about me: I own over 100 hats 🧢
+- What am I learning?:
+  - Frontend Developer on Linkedin Learning
+  - Renewing my knowledge of Emacs
+  
+- What am I reading?:
+  "First Things First" by Steven Covey
+
+- Ask me about:
+  - [Akkeris](https://github.com/akkeris)
+
+- 📫 Contact me at:
+  - Personal: ned@nedhanks.com
+  - Home business: info@nedhanks.com
+  - Employer: ned.hanks@octanner.com
+  
 
 <!--
 **nedhanks/nedhanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
