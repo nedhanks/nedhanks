@@ -9,24 +9,28 @@ AKA (in some circles) *Geekysmurf*
 
 🧫 My blog is about personal productivity and life experience.
 
-- Currently Working On:
+- ⚓️ Currently Working On:
   - Kubernetes DevOps system [Akkeris](https://github.com/akkeris)
   
-- What am I learning?:
+- 🏫 What am I learning?:
   - Frontend Developer on Linkedin Learning
   - Renewing my knowledge of Emacs
+  - Playing with TeX/LaTeX
   
-- What am I reading?:
-  "First Things First" by Steven Covey
+- 🚽 What am I reading?:
+  "How To Be An Introvert In An Extrovert World" by Michele Connoly
 
-- Ask me about:
+-  💬 Ask me about:
   - [Akkeris](https://github.com/akkeris)
+  - Replacing toxic chemicals in your home.
 
 - 📫 Contact me at:
   - Personal: ned@nedhanks.com
   - Home business: info@nedhanks.com
   - Employer: ned.hanks@octanner.com
   
+
+- ⚡ Fun fact: I own over 100 hats
 
 <!--
 **nedhanks/nedhanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
