@@ -5,7 +5,7 @@
 *Ned D Hanks*
 AKA (in some circles) *Geekysmurf*
 
-### I am a father, husband, blogger, geek, developer, and cloud engineer.
+I am a father, husband, blogger, geek, developer, and cloud engineer.
 
 🧫 My blog is about personal productivity and life experience.
 
@@ -15,10 +15,11 @@ AKA (in some circles) *Geekysmurf*
 - 🏫 What am I learning?:
   - Frontend Developer on Linkedin Learning
   - Renewing my knowledge of Emacs
-  - Playing with TeX/LaTeX
+  - Manager Essentials
   
 - 🚽 What am I reading?:
-  "How To Be An Introvert In An Extrovert World" by Michele Connoly
+  - "How To Be An Introvert In An Extrovert World" by Michele Connoly
+  - "Rama II*"
 
 -  💬 Ask me about:
   - [Akkeris](https://github.com/akkeris)
@@ -26,11 +27,10 @@ AKA (in some circles) *Geekysmurf*
 
 - 📫 Contact me at:
   - Personal: ned@nedhanks.com
-  - Home business: info@nedhanks.com
+  - Home business: ned.hanks@nedhanks.com
   - Employer: ned.hanks@octanner.com
   
-
-- ⚡ Fun fact: I own over 100 hats
+- ⚡ Fun fact: I own over 110 hats
 
 <!--
 **nedhanks/nedhanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
