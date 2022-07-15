@@ -1,9 +1,8 @@
 # Hey you, Ned here. Hope you are having an awesome day
 
-## WHo Am I
+## Who Am I
 
-*Ned D Hanks*
-AKA (in some circles) *Geekysmurf*
+*Ned D Hanks* AKA (in some circles) *Geekysmurf*
 
 I am a father, husband, blogger, geek, developer, and cloud engineer.
 
@@ -13,17 +12,17 @@ I am a father, husband, blogger, geek, developer, and cloud engineer.
   - Kubernetes DevOps system [Akkeris](https://github.com/akkeris)
   
 - 🏫 What am I learning?:
-  - Frontend Developer on Linkedin Learning
   - Renewing my knowledge of Emacs
   - Manager Essentials
   
 - 🚽 What am I reading?:
   - "How To Be An Introvert In An Extrovert World" by Michele Connoly
-  - "Rama II*"
+  - ["Building a Second Brain"](https://amzn.to/3uKb3Tn) by Tiago Forte
 
 -  💬 Ask me about:
   - [Akkeris](https://github.com/akkeris)
   - Replacing toxic chemicals in your home.
+  - Switching to an online store for household products
 
 - 📫 Contact me at:
   - Personal: ned@nedhanks.com
