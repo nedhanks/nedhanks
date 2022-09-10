@@ -8,12 +8,19 @@ I am a father, husband, blogger, geek, developer, and cloud engineer.
 
 🧫 My blog is about personal productivity and life experience.
 
+## What I do
 - ⚓️ Currently Working On:
   - Kubernetes DevOps system [Akkeris](https://github.com/akkeris)
   
+- 🤔 I’m looking for help with:
+  - Promethus memory killing nodes
+  - AWS EKS with terraform
+  
 - 🏫 What am I learning?:
   - Renewing my knowledge of Emacs
-  - Manager Essentials
+  - Manager Essentials - Linkedin Learing
+  - Istio Hands On For Kubernetes - Udemy
+  - AWS EKS Kubernetes Masterclass - Udemy
   
 - 🚽 What am I reading?:
   - "How To Be An Introvert In An Extrovert World" by Michele Connoly
