@@ -8,27 +8,26 @@ I am a father, husband, geek, devops, cloud engineer and sysadmin.
 
 ## What I do
 ### ⚓️ Currently Working On:
-  - Writting terraform to create AWS vpc and eks cluster for the company where I work.
-  - Setting up AWS managed prometheus and grafana for the multple k8s clusters I help manager
+  - Migrating a live production Rancher kubernets cluster to an AWS EKS cluster.
+  - Refactoring the builds for our golden base images, AlpineOS, OpenJDK and Node.
   - Kubernetes DevOps system [Akkeris](https://github.com/akkeris)
   
 ###  🤔 I’m looking for help with:
-  - Using promethus/grafana for multiple k8s clusters
+  - Converting an image builds using make to GitHub actions.
   - AWS EKS with terraform
   
 ### 🏫 What am I learning?:
   - Renewing my knowledge of Emacs
   - Istio Hands On For Kubernetes - Udemy
-  - AWS EKS Kubernetes Masterclass - Udemy
-  - Argo CD and Workflow for CI/CD - Udemy
+  - AWS CDK - Udemy
+  - AWS Cloud Practitioner - AWS Skills Builder
   
 ### 🚽 What am I reading?:
-  - "How To Be An Introvert In An Extrovert World" by Michele Connoly
-  - ["Building a Second Brain"](https://amzn.to/3uKb3Tn) by Tiago Forte
+  - "How to Win Friends and Influence People in the Digital World”
+  - Bible - Old Testment 
 
 ### 💬 Ask me about:
   - My Hats
-  - [Akkeris](https://github.com/akkeris)
   - Replacing toxic chemicals in your home.
   - Switching to an online store for household products
 
