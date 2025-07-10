@@ -1,4 +1,4 @@
-# Hey you, Ned here. Hope you are having an awesome day
+# Hi, Ned here. Hope you are having an awesome day
 
 ## Who Am I
 
@@ -8,24 +8,24 @@ I am a father, husband, geek, devops, cloud engineer and sysadmin.
 
 ## What I do
 ### ⚓️ Currently Working On:
-  - Migrating a live production Rancher kubernets cluster to an AWS EKS cluster.
-  - Refactoring the builds for our golden base images, AlpineOS, OpenJDK and Node.
-  - Kubernetes DevOps system [Akkeris](https://github.com/akkeris)
+  - Managing AWS EKS clusters. Using terraform for configuration and upgrades. Clusters use Karpenter for node autoscaling.
+  - Setting up my garage as a woodworking workshop. Will be crafting items for sale at markets, shows and online.
+  - With my wife, we are setting up a sticker, label and decal business. 
   
 ###  🤔 I’m looking for help with:
-  - Converting an image builds using make to GitHub actions.
   - AWS EKS with terraform
   
 ### 🏫 What am I learning?:
   - Renewing my knowledge of Emacs
-  - Istio Hands On For Kubernetes - Udemy
-  - AWS CDK - Udemy
   - AWS Cloud Practitioner - AWS Skills Builder
+  - New woodworking techniques, cnc and laser machines
+  - Vinyl and sticker design, print and cutting
   
 ### 🚽 What am I reading?:
-  - "How to Win Friends and Influence People in the Digital World”
-  - Bible - Old Testment 
-
+  - "Generation Warriors", By Anne McAffery and Elizabeth Moon
+  - "The Lost Ways" 
+  - "The Holy Bible", King James version
+  
 ### 💬 Ask me about:
   - My Hats
   - Replacing toxic chemicals in your home.
@@ -36,7 +36,7 @@ I am a father, husband, geek, devops, cloud engineer and sysadmin.
   - Home business: ned.hanks@nedhanks.com
   - Employer: ned.hanks@octanner.com
   
-## ⚡ Fun fact: I own over 110 hats
+## ⚡ Fun fact: I own over 150 hats
 
 <!--
 **nedhanks/nedhanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
